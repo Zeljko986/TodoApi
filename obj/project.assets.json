@@ -8854,11 +8854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zeljko\\Documents\\Aplikacije\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Zeljko\\Documents\\Aplikacije\\TodoApiGit\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Zeljko\\Documents\\Aplikacije\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Zeljko\\Documents\\Aplikacije\\TodoApiGit\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Zeljko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zeljko\\Documents\\Aplikacije\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Zeljko\\Documents\\Aplikacije\\TodoApiGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
